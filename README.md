@@ -171,8 +171,8 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
 
-<a href="https://vipulavinash.vercel.app" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="Portfolio" style="margin-bottom: 5px;" />
+<a href="mailto:vipulavinash123@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="vipulavinash123@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/vipul_avinash/" target="_blank">
