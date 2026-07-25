@@ -4,9 +4,10 @@
 
 ### MERN Stack Developer building production SaaS & AI-powered platforms
 
-I build and maintain full-stack web applications end-to-end — from multi-tenant
-architectures to AI-driven product features. Currently shipping features for an
-HRMS SaaS platform and an AI-powered interview platform.
+MERN Stack Developer with experience building and shipping production-ready SaaS and AI-powered web applications.
+Specialized in React, Node.js, Express.js, MongoDB, REST APIs, JWT authentication, RBAC, and real-time features using Socket.IO.
+Experienced in developing scalable multi-tenant systems, integrating third-party services, optimizing performance, and deploying full-stack applications.
+Passionate about building impactful products while continuously expanding into TypeScript, Next.js, and cloud technologies.
 
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-vipulavinash.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vipulavinash.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vipul_Avinash-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipul-avinash-478a35268/)
