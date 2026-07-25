@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Vipul 👋
+# Hi, I'm Vipul Avinash D 👋
 
 ### MERN Stack Developer building production SaaS & AI-powered platforms
 
