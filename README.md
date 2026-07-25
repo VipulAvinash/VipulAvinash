@@ -8,10 +8,10 @@ I build and maintain full-stack web applications end-to-end — from multi-tenan
 architectures to AI-driven product features. Currently shipping features for an
 HRMS SaaS platform and an AI-powered interview platform.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-vipulavinash.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vipulavinash.vercel.app)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-vipulavinash.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vipulavinash.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vipul_Avinash-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipul-avinash-478a35268/)
 [![GitHub](https://img.shields.io/badge/GitHub-VipulAvinash-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VipulAvinash)
-[![Instagram](https://img.shields.io/badge/Instagram-vipul__avinash-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vipul_avinash/)
+[![Instagram](https://img.shields.io/badge/Instagram-vipul__avinash-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vipul_avinash/) -->
 
 </div>
 
