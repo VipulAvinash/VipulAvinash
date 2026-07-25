@@ -1,6 +1,11 @@
+<!--Banner-->
+<p align="center">
+  <img src="./banner.png" alt="Vipul Avinash Banner" width="100%" />
+</p>
+
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Vɪᴘᴜʟ Aᴠɪɴᴀsʜ! 
-*MERN Stack Developer*
+*MERN Stack Developer (SaaS & AI Platforms)*
 <br /> 
 
 <!--Start Intro-->               
