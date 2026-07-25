@@ -53,8 +53,8 @@ HRMS SaaS platform and an AI-powered interview platform.
 
 <div align="center">
 
-![Vipul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VipulAvinash&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VipulAvinash&layout=compact&theme=tokyonight&hide_border=true)
+![Vipul's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=VipulAvinash&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VipulAvinash&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
