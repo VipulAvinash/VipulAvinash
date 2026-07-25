@@ -21,6 +21,12 @@
 
 <!--Languages and Tools Section-->       
 <h2 align="center">🛠️ Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ Fᴏᴄᴜs</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="Skills Animation" src="./Skills_Animation_White.gif">
+</picture>
+<br />
 
 <div align="center">
 
@@ -52,6 +58,7 @@
   <li>Building cross-platform mobile experiences with React Native and Expo.</li>
 </ul>
 
+<br />
 <br />
 
 <!--Featured Projects Section-->
@@ -136,7 +143,7 @@
 <br />
 
 <!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<h2 align="center">📈 CᴏɴᴛʀɪBhᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=VipulAvinash&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f7&area=true&hide_border=true" border-radius="15">
 </div>
@@ -159,10 +166,21 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vipulavinash.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipul-avinash-478a35268/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VipulAvinash)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vipul_avinash/)
+<a href="https://vipulavinash.vercel.app" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="Portfolio" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/vipul_avinash/" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="instagram" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://github.com/VipulAvinash" target="_blank">
+<img src="./github.png" width=50 height=50 alt="github" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/vipul-avinash-478a35268/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
 
 </div>
 <br/>
