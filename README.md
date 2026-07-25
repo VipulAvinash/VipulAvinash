@@ -49,14 +49,6 @@ HRMS SaaS platform and an AI-powered interview platform.
 
 ---
 
-### 📌 Currently Working On
-
-- Employee QR code management with bulk PDF/ZIP export for the HRMS platform
-- A fabric.js-based image editor for annotated work report uploads
-- A portfolio template selection system for tenant customization
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
