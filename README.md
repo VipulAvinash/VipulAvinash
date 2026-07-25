@@ -55,14 +55,23 @@ Passionate about building impactful products while continuously expanding into T
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Achievements
 
 <div align="center">
 
 ![Vipul's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=VipulAvinash&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VipulAvinash&layout=compact&theme=tokyonight&hide_border=true)
 
+<br/>
+
+[![Pull Shark](https://img.shields.io/badge/Achievement-Pull_Shark-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VipulAvinash?tab=achievements)
+[![Quickdraw](https://img.shields.io/badge/Achievement-Quickdraw-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/VipulAvinash?tab=achievements)
+[![YOLO](https://img.shields.io/badge/Achievement-YOLO-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VipulAvinash?tab=achievements)
+[![Pair Extraordinaire](https://img.shields.io/badge/Achievement-Pair_Extraordinaire-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VipulAvinash?tab=achievements)
+[![Galaxy Brain](https://img.shields.io/badge/Achievement-Galaxy_Brain-2ECC71?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VipulAvinash?tab=achievements)
+
 </div>
+
 
 ---
 
